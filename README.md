@@ -25,8 +25,8 @@ The dataset contains the following nine categories:
 
 The complete dataset can be accessed through the following platforms:
 
-- **Zenodo:** [(https://zenodo.org/records/24478747)]
-- **Kaggle:** [(https://doi.org/10.34740/kaggle/dsv/22724040)]
+- **Zenodo:** (https://zenodo.org/records/24478747)
+- **Kaggle:** (https://doi.org/10.34740/kaggle/dsv/22724040)
 
 ## Dataset Preparation
 
